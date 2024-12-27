@@ -43,7 +43,8 @@ def open_new_window():
     "japan": "nihon",
     "cat": "neko",
     "dog": "inu",
-    'lion':"shishido",
+    "lion":'shishido',
+    "tiger":'tora'
 }
 
     def search(word):

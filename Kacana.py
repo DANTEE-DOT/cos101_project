@@ -42,7 +42,8 @@ def open_new_window():
     "time": "jikan",
     "japan": "nihon",
     "cat": "neko",
-    "dog": "inu"
+    "dog": "inu",
+    'lion':"shishido",
 }
 
     def search(word):

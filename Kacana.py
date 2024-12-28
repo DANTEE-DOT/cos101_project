@@ -66,6 +66,7 @@ def open_new_window():
 
 button = Button(window, text="Japanese", width=50, height=2,font=('Times New Roman', 14), command=open_new_window)
 button.pack(pady=20)
+wuiehwiuevhwvijwhv
 
 button2= Button(window, text="Igala", width=50, height=2,font=('Times New Roman', 14))
 button2.pack(pady=20)
